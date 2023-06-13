@@ -2,7 +2,7 @@ this repo contain all basic  git command :
  1. git status  
  2. git init                        -> to initialise git repo from a simple repo
  3. git clone  <address> <new_dir_name>
- 4. git diff <file/folder name>     -> what iss modified
+ 4. git diff <file/folder name>     -> what is modified
  5. git commit -m "message"         -> to do final commit
  6. git log
     ex:git log -3 {latest three commit}
